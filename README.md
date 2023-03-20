@@ -82,4 +82,4 @@ Courses
 
 ## Certificates
 
-[Google Analytics Certificate]([url](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite#courses))
+[Google Analytics Certificate 2023]([url](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite#courses))
