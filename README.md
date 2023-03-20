@@ -64,9 +64,9 @@ Courses
 
 **Analyzing Covid 19 Infection, Vaccination, and Death Rates across the World.**
 
-**Code**: [In Progress]
+**Code**: [Covid 19 Data Exploration SQL](https://github.com/SlavittIvan/Data-Analysis-Portfolio/blob/main/Covid19_DataExploration_SQL)
 
-**Tableau Dashboard**: [Covid 19 Data Exploration](https://public.tableau.com/app/profile/ivan1156/viz/Covid19DataExploration_16792852594670/Dashboard1).
+**Tableau Dashboard**: [Covid 19 Data Exploration Tableau Dashboard](https://public.tableau.com/app/profile/ivan1156/viz/Covid19DataExploration_16792852594670/Dashboard1).
 
 **Description** Analyzed Covid 19 infection, vaccination, and death rates across the world using SQL; published a Tableau dashboard to visualize the results. Skills used: Joins, CTE's, Temp Tables, Windows Functions, and Aggregate Functions.
 
