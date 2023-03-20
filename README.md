@@ -30,19 +30,9 @@ This intermediate-level course will teach you several key functions necessary to
 *Introduction to R*
 Master the Basics of data analysis by manipulating common data structures such as vectors, matrices, and data frames.
 
-*Intermediate R*
-In this R training, you will learn about conditional statements, loops, and functions to power your own R scripts. Next, make your R code more efficient and readable using the apply functions. Finally, the utilities chapter gets you up to speed with regular expressions in R, data structure manipulations, and times and dates.
-
-*Writing Efficient R Code*
-Learn to write faster R code, discover bechmarking and profiling, and unlock the secres of parallel programming.
-
 **Tableau**
 *Introduction to Tableau*
 Get started with Tableau, a widely used business intelligence (BI) and analytics software to explore, visualize, and securely share data.
-
-**SAS**
-*SAS Programming BASE certification Course for SAS Beginners*
-The Complete Prep Course for SAS Certified Base Programming Professionals SAS
 
 
 Google Data Analytics Professional Certificate (180 hours)
@@ -70,13 +60,13 @@ Courses
 
 **Code**: [Video Game Sales Analysis](https://github.com/SlavittIvan/Data-Analysis-Portfolio/blob/main/VideoGames_Sales_Analysis.ipynb). 
 
-**Description** Use joins and set theory to discover the best years for video games!
+**Description** Analyzed dataset for the top 400 best-selling video games created between 1977 and 2020 and compared data on sales with critic and user reviews to determine whether or not video game ratings have improved as the gaming industry market has grown. Utilized SQL joins, set theory, and sub-queries.
 
-**Analyzing NYC Public School Test Result Scores**
+**Analyzing Covid 19 Infection, Vaccination, and Death Rates across the World.**
 
-**Code**: ___
+**Code**: [In Progress]
 
-**Description** Use summary statistics and filters to analyze test scores across New York City's public schools!
+**Description** Analyzed Covid 19 infection, vaccination, and death rates across the world using SQL; published a Tableau dashboard to visualize the results. Skills used: Joins, CTE's, Temp Tables, Windows Functions, and Aggregate Functions.
 
 
 
