@@ -66,6 +66,8 @@ Courses
 
 **Code**: [In Progress]
 
+**Tableau Dashboard**: [Covid 19 Data Exploration](https://public.tableau.com/app/profile/ivan1156).
+
 **Description** Analyzed Covid 19 infection, vaccination, and death rates across the world using SQL; published a Tableau dashboard to visualize the results. Skills used: Joins, CTE's, Temp Tables, Windows Functions, and Aggregate Functions.
 
 
