@@ -62,7 +62,7 @@ Courses
 
 **Description** Analyzed dataset for the top 400 best-selling video games created between 1977 and 2020 and compared data on sales with critic and user reviews to determine whether or not video game ratings have improved as the gaming industry market has grown. Utilized SQL joins, set theory, and sub-queries.
 
-**Analyzing Covid 19 Infection, Vaccination, and Death Rates across the World.**
+### Analyzing Covid 19 Infection, Vaccination, and Death Rates across the World.
 
 **Code**: [Covid 19 Data Exploration SQL](https://github.com/SlavittIvan/Data-Analysis-Portfolio/blob/main/Covid19_DataExploration_SQL)
 
