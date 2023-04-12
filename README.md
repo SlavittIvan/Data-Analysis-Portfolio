@@ -26,9 +26,6 @@ In this course, you'll learn all about the power of joining tables while explori
 Intermediate SQL (DataCamp)
 This intermediate-level course will teach you several key functions necessary to wrangle, filter, and categorize information in a relational database, expand your SQL toolkit, and answer complex questions. You will learn the robust use of CASE statements, subqueries, and window functions—all while discovering some interesting facts about soccer using the European Soccer Database.
 
-**R**
-*Introduction to R*
-Master the Basics of data analysis by manipulating common data structures such as vectors, matrices, and data frames.
 
 **Tableau**
 *Introduction to Tableau*
